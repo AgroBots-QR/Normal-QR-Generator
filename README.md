@@ -1,1 +1,3 @@
-# QR CODE GENERATOR
+# How is a QR code created?
+
+A QR code, short for Quick Response code, is generated using a combination of geometric patterns arranged on a square grid. These patterns consist of black squares arranged on a white background, encoding data in the form of binary information. The process of generating a QR code involves selecting the type of information to be encoded, such as text, a URL, or other data formats, and using an algorithm to convert this information into a series of binary digits. These binary digits are then arranged and encoded into the pattern of black and white squares, using error correction techniques to ensure accurate data retrieval even if the code is damaged or partially obscured. When scanned by a QR code reader or smartphone camera, the encoded information is decoded and can be used for various purposes, such as accessing a website, storing contact information, or initiating a payment transaction.
